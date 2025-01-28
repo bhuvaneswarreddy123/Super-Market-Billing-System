@@ -79,20 +79,22 @@ This is a **Supermarket Billing System** built using Python and Tkinter. It prov
 
 ## Pictures 🖼️
 
--- When we open the website it look like below
+- When we open the website it look like below
 
 ![image alt](https://github.com/bhuvaneswarreddy123/Super-Market-Billing-System/blob/04025d8af40437272bfee119696950c9fae8e862/images/HomePage.png)
 
---when we are going to add a new product or to increase the quantity of product in supermarket after clicking addItem
+-when we are going to add a new product or to increase the quantity of product in supermarket after clicking addItem
 
 ![image alt](https://github.com/bhuvaneswarreddy123/Super-Market-Billing-System/blob/04025d8af40437272bfee119696950c9fae8e862/images/AddItem.png)
 
---After Buying necessary products we can create a bill for the sold products by using PrintBill Button
+-After Buying necessary products we can create a bill for the sold products by using PrintBill Button
 
 ![image alt](https://github.com/bhuvaneswarreddy123/Super-Market-Billing-System/blob/04025d8af40437272bfee119696950c9fae8e862/images/bill.png)
 
 **The above mentiond new products their prices,quantity will be stored in mysql in backend**
+
 **If the quantity in super market for a particular product is less than the desired then message will be displayed in prompt**
+
 **Every update in quantity of product will be stored in mysql**
 
 
